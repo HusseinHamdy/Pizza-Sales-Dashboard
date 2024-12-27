@@ -1,6 +1,6 @@
 # Pizza-Sales-Dashboard
 # Overview
-This project aims to create a comprehensive and interactive sales report for a pizza restaurant using Power BI for data visualization, an Excel dataset for initial data collection, and SQL Server for robust data storage and management. The goal is to analyze the restaurant’s sales performance, track customer preferences, and identify trends over time.
+This project involves creating an interactive and detailed sales report for a pizza restaurant, utilizing Power BI for data visualization, Excel as the data source, and SQL Server for data storage and management. The goal is to analyze the restaurant’s sales performance, track trends, and provide insights that can help with decision-making and business optimization
 # key Features
 
 Data Collection:
