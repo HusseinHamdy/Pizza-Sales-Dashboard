@@ -36,4 +36,8 @@ Using Power BI, the integrated data from SQL Server is turned into insightful vi
     * Create a pie chart that displays the percentage of sales by pizza size
 -	Total pizza sold by pizza category:
     * Create a funnel chart that displays the total pizza sold for each pizza category
+- Top 5 sellers
+    * Ceate a bar chart that displays the Top 5 sellers.
+- Bottom 5 sellers
+    * Ceate a bar chart that displays the Bottom 5 sellers.
 
