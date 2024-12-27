@@ -15,3 +15,7 @@ The Excel dataset is imported and integrated into SQL Server, ensuring that all 
 Data Transformation:
 
 Power Query is used for cleaning and preparing the data. This may include tasks like removing duplicates, handling missing values, and ensuring that data is formatted correctly for analysis.
+
+Data Visualization:
+
+Using Power BI, the integrated data from SQL Server is turned into insightful visualizations
