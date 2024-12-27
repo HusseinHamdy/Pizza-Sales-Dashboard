@@ -27,3 +27,13 @@ Using Power BI, the integrated data from SQL Server is turned into insightful vi
 -	Total order.
 -	Average pizza per order.
 
+# Requirements
+•	Daily trend for total orders
+Ceate a bar chart that displays the daily trend of total orders over specific time periods.
+•	Monthly trend for total orders
+Create a line chart that displays the monthly trend of total orders
+•	Percentage of sales by pizza size
+Create a pie chart that displays the percentage of sales by pizza size
+•	Total pizza sold by pizza category
+Create a funnel chart that displays the total pizza sold for each pizza category
+
