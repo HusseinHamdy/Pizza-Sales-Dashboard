@@ -19,3 +19,11 @@ Power Query is used for cleaning and preparing the data. This may include tasks 
 Data Visualization:
 
 Using Power BI, the integrated data from SQL Server is turned into insightful visualizations
+
+# KPI's
+-	Total Revenue.
+-	Average order value.
+-	Total pizza sold.
+-	Total order.
+-	Average pizza per order.
+
