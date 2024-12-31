@@ -42,7 +42,7 @@ Using Power BI, the integrated data from SQL Server is turned into insightful vi
     * Ceate a clustered bar chart that displays the Top 5 sellers.
 - Bottom 5 sellers
     * Ceate a clustered bar chart that displays the Bottom 5 sellers.
-# Tools used in projects
+# Tools used in project
 - Excel
 - SQL Server
 - Power BI
